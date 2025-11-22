@@ -21,5 +21,5 @@ Proyek ini dibuat agar pengguna dapat menyimpan konten TikTok secara cepat, muda
    - Audio MP3
 5. File akan otomatis diunduh ke perangkat kamu.
 
-## 📌 Contoh Link TikTok
-
+## 📌 Contoh Download Link TikTok
+- https://vt.tiktok.com/####
