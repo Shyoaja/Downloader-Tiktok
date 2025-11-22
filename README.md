@@ -1,2 +1,0 @@
-# Downloader-Tiktok
-HTMLl Only
